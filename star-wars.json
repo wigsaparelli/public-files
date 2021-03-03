@@ -19,7 +19,7 @@
       "apiLink": "http://swapi.dev/api/people/3/",
       "htmlLink": "http://swapi.dev/api/people/3/",
       "docLink": "https://www.starwars.com/databank/r2-d2",
-      "monitorLink": "http://swapi.dev/api/people/3/"
+      "monitorLink": "http://swapi.dev/api/people/3/",
       "name": "R2-D2",
       "sourceType": "StarWars.Person"
     },
@@ -1825,9 +1825,9 @@
   ],
   "upsertEdges": [
     {
-      "outV": "http://swapi.dev/api/planets/1/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/1/"
+      "outV": "http://swapi.dev/api/people/1/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/1/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -1875,9 +1875,9 @@
       "inV": "http://swapi.dev/api/starships/22/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/1/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/2/"
+      "outV": "http://swapi.dev/api/people/2/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/1/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -1920,9 +1920,9 @@
       "inV": "http://swapi.dev/api/people/2/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/8/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/3/"
+      "outV": "http://swapi.dev/api/people/3/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/8/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -1965,9 +1965,9 @@
       "inV": "http://swapi.dev/api/people/3/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/1/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/4/"
+      "outV": "http://swapi.dev/api/people/4/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/1/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -2000,9 +2000,9 @@
       "inV": "http://swapi.dev/api/starships/13/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/2/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/5/"
+      "outV": "http://swapi.dev/api/people/5/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/2/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -2035,9 +2035,9 @@
       "inV": "http://swapi.dev/api/vehicles/30/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/1/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/6/"
+      "outV": "http://swapi.dev/api/people/6/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/1/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -2060,9 +2060,9 @@
       "inV": "http://swapi.dev/api/people/6/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/1/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/7/"
+      "outV": "http://swapi.dev/api/people/7/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/1/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -2085,9 +2085,9 @@
       "inV": "http://swapi.dev/api/people/7/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/1/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/8/"
+      "outV": "http://swapi.dev/api/people/8/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/1/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -2105,9 +2105,9 @@
       "inV": "http://swapi.dev/api/people/8/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/1/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/9/"
+      "outV": "http://swapi.dev/api/people/9/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/1/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -2125,9 +2125,9 @@
       "inV": "http://swapi.dev/api/starships/12/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/20/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/10/"
+      "outV": "http://swapi.dev/api/people/10/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/20/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -2195,9 +2195,9 @@
       "inV": "http://swapi.dev/api/starships/74/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/1/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/11/"
+      "outV": "http://swapi.dev/api/people/11/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/1/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -2245,9 +2245,9 @@
       "inV": "http://swapi.dev/api/starships/65/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/21/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/12/"
+      "outV": "http://swapi.dev/api/people/12/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/21/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -2265,9 +2265,9 @@
       "inV": "http://swapi.dev/api/people/12/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/14/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/13/"
+      "outV": "http://swapi.dev/api/people/13/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/14/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -2315,9 +2315,9 @@
       "inV": "http://swapi.dev/api/starships/22/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/22/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/14/"
+      "outV": "http://swapi.dev/api/people/14/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/22/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -2350,9 +2350,9 @@
       "inV": "http://swapi.dev/api/starships/22/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/23/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/15/"
+      "outV": "http://swapi.dev/api/people/15/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/23/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -2370,9 +2370,9 @@
       "inV": "http://swapi.dev/api/people/15/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/24/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/16/"
+      "outV": "http://swapi.dev/api/people/16/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/24/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -2400,9 +2400,9 @@
       "inV": "http://swapi.dev/api/people/16/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/22/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/18/"
+      "outV": "http://swapi.dev/api/people/18/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/22/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -2435,9 +2435,9 @@
       "inV": "http://swapi.dev/api/starships/12/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/26/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/19/"
+      "outV": "http://swapi.dev/api/people/19/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/26/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -2455,9 +2455,9 @@
       "inV": "http://swapi.dev/api/starships/12/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/28/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/20/"
+      "outV": "http://swapi.dev/api/people/20/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/28/"
     },
     {
       "outV": "http://swapi.dev/api/films/2/",
@@ -2495,9 +2495,9 @@
       "inV": "http://swapi.dev/api/people/20/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/8/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/21/"
+      "outV": "http://swapi.dev/api/people/21/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/8/"
     },
     {
       "outV": "http://swapi.dev/api/films/2/",
@@ -2530,9 +2530,9 @@
       "inV": "http://swapi.dev/api/people/21/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/10/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/22/"
+      "outV": "http://swapi.dev/api/people/22/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/10/"
     },
     {
       "outV": "http://swapi.dev/api/films/2/",
@@ -2560,9 +2560,9 @@
       "inV": "http://swapi.dev/api/starships/21/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/28/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/23/"
+      "outV": "http://swapi.dev/api/people/23/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/28/"
     },
     {
       "outV": "http://swapi.dev/api/films/2/",
@@ -2580,9 +2580,9 @@
       "inV": "http://swapi.dev/api/people/23/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/29/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/24/"
+      "outV": "http://swapi.dev/api/people/24/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/29/"
     },
     {
       "outV": "http://swapi.dev/api/films/2/",
@@ -2600,9 +2600,9 @@
       "inV": "http://swapi.dev/api/people/24/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/30/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/25/"
+      "outV": "http://swapi.dev/api/people/25/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/30/"
     },
     {
       "outV": "http://swapi.dev/api/films/2/",
@@ -2625,9 +2625,9 @@
       "inV": "http://swapi.dev/api/starships/10/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/6/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/26/"
+      "outV": "http://swapi.dev/api/people/26/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/6/"
     },
     {
       "outV": "http://swapi.dev/api/films/2/",
@@ -2640,9 +2640,9 @@
       "inV": "http://swapi.dev/api/people/26/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/31/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/27/"
+      "outV": "http://swapi.dev/api/people/27/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/31/"
     },
     {
       "outV": "http://swapi.dev/api/films/3/",
@@ -2660,9 +2660,9 @@
       "inV": "http://swapi.dev/api/people/27/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/32/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/28/"
+      "outV": "http://swapi.dev/api/people/28/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/32/"
     },
     {
       "outV": "http://swapi.dev/api/films/3/",
@@ -2675,9 +2675,9 @@
       "inV": "http://swapi.dev/api/people/28/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/28/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/29/"
+      "outV": "http://swapi.dev/api/people/29/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/28/"
     },
     {
       "outV": "http://swapi.dev/api/films/3/",
@@ -2695,9 +2695,9 @@
       "inV": "http://swapi.dev/api/starships/28/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/7/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/30/"
+      "outV": "http://swapi.dev/api/people/30/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/7/"
     },
     {
       "outV": "http://swapi.dev/api/films/3/",
@@ -2715,9 +2715,9 @@
       "inV": "http://swapi.dev/api/people/30/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/33/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/31/"
+      "outV": "http://swapi.dev/api/people/31/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/33/"
     },
     {
       "outV": "http://swapi.dev/api/films/3/",
@@ -2740,9 +2740,9 @@
       "inV": "http://swapi.dev/api/starships/10/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/28/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/32/"
+      "outV": "http://swapi.dev/api/people/32/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/28/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -2760,9 +2760,9 @@
       "inV": "http://swapi.dev/api/vehicles/38/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/18/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/33/"
+      "outV": "http://swapi.dev/api/people/33/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/18/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -2790,9 +2790,9 @@
       "inV": "http://swapi.dev/api/people/33/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/9/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/34/"
+      "outV": "http://swapi.dev/api/people/34/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/9/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -2805,9 +2805,9 @@
       "inV": "http://swapi.dev/api/people/34/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/8/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/35/"
+      "outV": "http://swapi.dev/api/people/35/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/8/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -2845,9 +2845,9 @@
       "inV": "http://swapi.dev/api/starships/64/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/8/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/36/"
+      "outV": "http://swapi.dev/api/people/36/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/8/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -2870,9 +2870,9 @@
       "inV": "http://swapi.dev/api/people/36/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/8/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/37/"
+      "outV": "http://swapi.dev/api/people/37/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/8/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -2890,9 +2890,9 @@
       "inV": "http://swapi.dev/api/people/37/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/8/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/38/"
+      "outV": "http://swapi.dev/api/people/38/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/8/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -2910,9 +2910,9 @@
       "inV": "http://swapi.dev/api/people/38/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/8/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/39/"
+      "outV": "http://swapi.dev/api/people/39/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/8/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -2930,9 +2930,9 @@
       "inV": "http://swapi.dev/api/starships/40/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/34/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/40/"
+      "outV": "http://swapi.dev/api/people/40/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/34/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -2955,9 +2955,9 @@
       "inV": "http://swapi.dev/api/people/40/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/35/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/41/"
+      "outV": "http://swapi.dev/api/people/41/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/35/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -2975,9 +2975,9 @@
       "inV": "http://swapi.dev/api/people/41/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/8/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/42/"
+      "outV": "http://swapi.dev/api/people/42/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/8/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -2990,9 +2990,9 @@
       "inV": "http://swapi.dev/api/people/42/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/1/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/43/"
+      "outV": "http://swapi.dev/api/people/43/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/1/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3010,9 +3010,9 @@
       "inV": "http://swapi.dev/api/people/43/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/36/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/44/"
+      "outV": "http://swapi.dev/api/people/44/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/36/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3040,9 +3040,9 @@
       "inV": "http://swapi.dev/api/starships/41/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/37/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/45/"
+      "outV": "http://swapi.dev/api/people/45/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/37/"
     },
     {
       "outV": "http://swapi.dev/api/films/3/",
@@ -3060,9 +3060,9 @@
       "inV": "http://swapi.dev/api/people/45/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/37/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/46/"
+      "outV": "http://swapi.dev/api/people/46/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/37/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3090,9 +3090,9 @@
       "inV": "http://swapi.dev/api/people/46/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/38/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/47/"
+      "outV": "http://swapi.dev/api/people/47/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/38/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3110,9 +3110,9 @@
       "inV": "http://swapi.dev/api/people/47/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/39/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/48/"
+      "outV": "http://swapi.dev/api/people/48/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/39/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3130,9 +3130,9 @@
       "inV": "http://swapi.dev/api/people/48/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/40/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/49/"
+      "outV": "http://swapi.dev/api/people/49/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/40/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3150,9 +3150,9 @@
       "inV": "http://swapi.dev/api/people/49/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/41/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/50/"
+      "outV": "http://swapi.dev/api/people/50/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/41/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3170,9 +3170,9 @@
       "inV": "http://swapi.dev/api/people/50/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/42/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/51/"
+      "outV": "http://swapi.dev/api/people/51/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/42/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3195,9 +3195,9 @@
       "inV": "http://swapi.dev/api/people/51/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/43/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/52/"
+      "outV": "http://swapi.dev/api/people/52/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/43/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3225,9 +3225,9 @@
       "inV": "http://swapi.dev/api/people/52/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/44/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/53/"
+      "outV": "http://swapi.dev/api/people/53/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/44/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3255,9 +3255,9 @@
       "inV": "http://swapi.dev/api/people/53/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/45/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/54/"
+      "outV": "http://swapi.dev/api/people/54/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/45/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3280,9 +3280,9 @@
       "inV": "http://swapi.dev/api/people/54/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/9/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/55/"
+      "outV": "http://swapi.dev/api/people/55/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/9/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3305,9 +3305,9 @@
       "inV": "http://swapi.dev/api/people/55/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/47/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/56/"
+      "outV": "http://swapi.dev/api/people/56/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/47/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3330,9 +3330,9 @@
       "inV": "http://swapi.dev/api/people/56/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/48/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/57/"
+      "outV": "http://swapi.dev/api/people/57/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/48/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3350,9 +3350,9 @@
       "inV": "http://swapi.dev/api/people/57/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/49/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/58/"
+      "outV": "http://swapi.dev/api/people/58/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/49/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3385,9 +3385,9 @@
       "inV": "http://swapi.dev/api/starships/48/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/50/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/59/"
+      "outV": "http://swapi.dev/api/people/59/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/50/"
     },
     {
       "outV": "http://swapi.dev/api/films/4/",
@@ -3410,9 +3410,9 @@
       "inV": "http://swapi.dev/api/people/59/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/8/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/60/"
+      "outV": "http://swapi.dev/api/people/60/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/8/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3430,9 +3430,9 @@
       "inV": "http://swapi.dev/api/starships/39/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/8/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/61/"
+      "outV": "http://swapi.dev/api/people/61/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/8/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3445,9 +3445,9 @@
       "inV": "http://swapi.dev/api/people/61/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/1/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/62/"
+      "outV": "http://swapi.dev/api/people/62/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/1/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3460,9 +3460,9 @@
       "inV": "http://swapi.dev/api/people/62/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/11/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/63/"
+      "outV": "http://swapi.dev/api/people/63/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/11/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3485,9 +3485,9 @@
       "inV": "http://swapi.dev/api/people/63/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/51/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/64/"
+      "outV": "http://swapi.dev/api/people/64/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/51/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3510,9 +3510,9 @@
       "inV": "http://swapi.dev/api/people/64/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/51/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/65/"
+      "outV": "http://swapi.dev/api/people/65/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/51/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3530,9 +3530,9 @@
       "inV": "http://swapi.dev/api/people/65/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/8/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/66/"
+      "outV": "http://swapi.dev/api/people/66/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/8/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3550,9 +3550,9 @@
       "inV": "http://swapi.dev/api/people/66/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/52/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/67/"
+      "outV": "http://swapi.dev/api/people/67/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/52/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3580,9 +3580,9 @@
       "inV": "http://swapi.dev/api/vehicles/55/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/2/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/68/"
+      "outV": "http://swapi.dev/api/people/68/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/2/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3605,9 +3605,9 @@
       "inV": "http://swapi.dev/api/people/68/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/53/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/69/"
+      "outV": "http://swapi.dev/api/people/69/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/53/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3620,9 +3620,9 @@
       "inV": "http://swapi.dev/api/people/69/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/54/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/70/"
+      "outV": "http://swapi.dev/api/people/70/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/54/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3645,9 +3645,9 @@
       "inV": "http://swapi.dev/api/vehicles/45/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/55/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/71/"
+      "outV": "http://swapi.dev/api/people/71/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/55/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3665,9 +3665,9 @@
       "inV": "http://swapi.dev/api/people/71/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/10/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/72/"
+      "outV": "http://swapi.dev/api/people/72/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/10/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3685,9 +3685,9 @@
       "inV": "http://swapi.dev/api/people/72/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/10/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/73/"
+      "outV": "http://swapi.dev/api/people/73/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/10/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3705,9 +3705,9 @@
       "inV": "http://swapi.dev/api/people/73/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/9/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/74/"
+      "outV": "http://swapi.dev/api/people/74/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/9/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3725,9 +3725,9 @@
       "inV": "http://swapi.dev/api/people/74/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/28/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/75/"
+      "outV": "http://swapi.dev/api/people/75/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/28/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3745,9 +3745,9 @@
       "inV": "http://swapi.dev/api/people/75/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/56/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/76/"
+      "outV": "http://swapi.dev/api/people/76/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/56/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3765,9 +3765,9 @@
       "inV": "http://swapi.dev/api/people/76/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/57/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/77/"
+      "outV": "http://swapi.dev/api/people/77/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/57/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3785,9 +3785,9 @@
       "inV": "http://swapi.dev/api/people/77/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/58/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/78/"
+      "outV": "http://swapi.dev/api/people/78/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/58/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3810,9 +3810,9 @@
       "inV": "http://swapi.dev/api/people/78/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/59/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/79/"
+      "outV": "http://swapi.dev/api/people/79/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/59/"
     },
     {
       "outV": "http://swapi.dev/api/films/6/",
@@ -3840,9 +3840,9 @@
       "inV": "http://swapi.dev/api/starships/74/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/14/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/80/"
+      "outV": "http://swapi.dev/api/people/80/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/14/"
     },
     {
       "outV": "http://swapi.dev/api/films/6/",
@@ -3860,9 +3860,9 @@
       "inV": "http://swapi.dev/api/people/80/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/2/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/81/"
+      "outV": "http://swapi.dev/api/people/81/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/2/"
     },
     {
       "outV": "http://swapi.dev/api/films/1/",
@@ -3880,9 +3880,9 @@
       "inV": "http://swapi.dev/api/people/81/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/60/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/82/"
+      "outV": "http://swapi.dev/api/people/82/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/60/"
     },
     {
       "outV": "http://swapi.dev/api/films/5/",
@@ -3900,9 +3900,9 @@
       "inV": "http://swapi.dev/api/people/82/"
     },
     {
-      "outV": "http://swapi.dev/api/planets/12/",
-      "label": "contains",
-      "inV": "http://swapi.dev/api/people/83/"
+      "outV": "http://swapi.dev/api/people/83/",
+      "label": "resides",
+      "inV": "http://swapi.dev/api/planets/12/"
     },
     {
       "outV": "http://swapi.dev/api/films/6/",
