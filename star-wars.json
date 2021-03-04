@@ -5,1822 +5,2082 @@
       "apiLink": "http://swapi.dev/api/people/1/",
       "htmlLink": "http://swapi.dev/api/people/1/",
       "name": "Luke Skywalker",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/2/",
       "apiLink": "http://swapi.dev/api/people/2/",
       "htmlLink": "http://swapi.dev/api/people/2/",
       "name": "C-3PO",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/3/",
       "apiLink": "http://swapi.dev/api/people/3/",
       "htmlLink": "http://swapi.dev/api/people/3/",
-      "docLink": "https://www.starwars.com/databank/r2-d2",
-      "monitorLink": "http://swapi.dev/api/people/3/",
       "name": "R2-D2",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/4/",
       "apiLink": "http://swapi.dev/api/people/4/",
       "htmlLink": "http://swapi.dev/api/people/4/",
       "name": "Darth Vader",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/5/",
       "apiLink": "http://swapi.dev/api/people/5/",
       "htmlLink": "http://swapi.dev/api/people/5/",
       "name": "Leia Organa",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/6/",
       "apiLink": "http://swapi.dev/api/people/6/",
       "htmlLink": "http://swapi.dev/api/people/6/",
       "name": "Owen Lars",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/7/",
       "apiLink": "http://swapi.dev/api/people/7/",
       "htmlLink": "http://swapi.dev/api/people/7/",
       "name": "Beru Whitesun lars",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/8/",
       "apiLink": "http://swapi.dev/api/people/8/",
       "htmlLink": "http://swapi.dev/api/people/8/",
       "name": "R5-D4",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/9/",
       "apiLink": "http://swapi.dev/api/people/9/",
       "htmlLink": "http://swapi.dev/api/people/9/",
       "name": "Biggs Darklighter",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/10/",
       "apiLink": "http://swapi.dev/api/people/10/",
       "htmlLink": "http://swapi.dev/api/people/10/",
       "name": "Obi-Wan Kenobi",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/11/",
       "apiLink": "http://swapi.dev/api/people/11/",
       "htmlLink": "http://swapi.dev/api/people/11/",
       "name": "Anakin Skywalker",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/12/",
       "apiLink": "http://swapi.dev/api/people/12/",
       "htmlLink": "http://swapi.dev/api/people/12/",
       "name": "Wilhuff Tarkin",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/13/",
       "apiLink": "http://swapi.dev/api/people/13/",
       "htmlLink": "http://swapi.dev/api/people/13/",
+      "docLink": "https://www.starwars.com/databank/chewbacca",
+      "monitorLink": "http://swapi.dev/api/people/13/",
       "name": "Chewbacca",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/14/",
       "apiLink": "http://swapi.dev/api/people/14/",
       "htmlLink": "http://swapi.dev/api/people/14/",
       "name": "Han Solo",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/15/",
       "apiLink": "http://swapi.dev/api/people/15/",
       "htmlLink": "http://swapi.dev/api/people/15/",
       "name": "Greedo",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/16/",
       "apiLink": "http://swapi.dev/api/people/16/",
       "htmlLink": "http://swapi.dev/api/people/16/",
       "name": "Jabba Desilijic Tiure",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/18/",
       "apiLink": "http://swapi.dev/api/people/18/",
       "htmlLink": "http://swapi.dev/api/people/18/",
       "name": "Wedge Antilles",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/19/",
       "apiLink": "http://swapi.dev/api/people/19/",
       "htmlLink": "http://swapi.dev/api/people/19/",
       "name": "Jek Tono Porkins",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/20/",
       "apiLink": "http://swapi.dev/api/people/20/",
       "htmlLink": "http://swapi.dev/api/people/20/",
       "name": "Yoda",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/21/",
       "apiLink": "http://swapi.dev/api/people/21/",
       "htmlLink": "http://swapi.dev/api/people/21/",
       "name": "Palpatine",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/22/",
       "apiLink": "http://swapi.dev/api/people/22/",
       "htmlLink": "http://swapi.dev/api/people/22/",
       "name": "Boba Fett",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/23/",
       "apiLink": "http://swapi.dev/api/people/23/",
       "htmlLink": "http://swapi.dev/api/people/23/",
       "name": "IG-88",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/24/",
       "apiLink": "http://swapi.dev/api/people/24/",
       "htmlLink": "http://swapi.dev/api/people/24/",
       "name": "Bossk",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/25/",
       "apiLink": "http://swapi.dev/api/people/25/",
       "htmlLink": "http://swapi.dev/api/people/25/",
       "name": "Lando Calrissian",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/26/",
       "apiLink": "http://swapi.dev/api/people/26/",
       "htmlLink": "http://swapi.dev/api/people/26/",
       "name": "Lobot",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/27/",
       "apiLink": "http://swapi.dev/api/people/27/",
       "htmlLink": "http://swapi.dev/api/people/27/",
       "name": "Ackbar",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/28/",
       "apiLink": "http://swapi.dev/api/people/28/",
       "htmlLink": "http://swapi.dev/api/people/28/",
       "name": "Mon Mothma",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/29/",
       "apiLink": "http://swapi.dev/api/people/29/",
       "htmlLink": "http://swapi.dev/api/people/29/",
       "name": "Arvel Crynyd",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/30/",
       "apiLink": "http://swapi.dev/api/people/30/",
       "htmlLink": "http://swapi.dev/api/people/30/",
       "name": "Wicket Systri Warrick",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/31/",
       "apiLink": "http://swapi.dev/api/people/31/",
       "htmlLink": "http://swapi.dev/api/people/31/",
       "name": "Nien Nunb",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/32/",
       "apiLink": "http://swapi.dev/api/people/32/",
       "htmlLink": "http://swapi.dev/api/people/32/",
       "name": "Qui-Gon Jinn",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/33/",
       "apiLink": "http://swapi.dev/api/people/33/",
       "htmlLink": "http://swapi.dev/api/people/33/",
       "name": "Nute Gunray",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/34/",
       "apiLink": "http://swapi.dev/api/people/34/",
       "htmlLink": "http://swapi.dev/api/people/34/",
       "name": "Finis Valorum",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/35/",
       "apiLink": "http://swapi.dev/api/people/35/",
       "htmlLink": "http://swapi.dev/api/people/35/",
       "name": "Padmé Amidala",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/36/",
       "apiLink": "http://swapi.dev/api/people/36/",
       "htmlLink": "http://swapi.dev/api/people/36/",
       "name": "Jar Jar Binks",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/37/",
       "apiLink": "http://swapi.dev/api/people/37/",
       "htmlLink": "http://swapi.dev/api/people/37/",
       "name": "Roos Tarpals",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/38/",
       "apiLink": "http://swapi.dev/api/people/38/",
       "htmlLink": "http://swapi.dev/api/people/38/",
       "name": "Rugor Nass",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/39/",
       "apiLink": "http://swapi.dev/api/people/39/",
       "htmlLink": "http://swapi.dev/api/people/39/",
       "name": "Ric Olié",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/40/",
       "apiLink": "http://swapi.dev/api/people/40/",
       "htmlLink": "http://swapi.dev/api/people/40/",
       "name": "Watto",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/41/",
       "apiLink": "http://swapi.dev/api/people/41/",
       "htmlLink": "http://swapi.dev/api/people/41/",
       "name": "Sebulba",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/42/",
       "apiLink": "http://swapi.dev/api/people/42/",
       "htmlLink": "http://swapi.dev/api/people/42/",
       "name": "Quarsh Panaka",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/43/",
       "apiLink": "http://swapi.dev/api/people/43/",
       "htmlLink": "http://swapi.dev/api/people/43/",
       "name": "Shmi Skywalker",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/44/",
       "apiLink": "http://swapi.dev/api/people/44/",
       "htmlLink": "http://swapi.dev/api/people/44/",
       "name": "Darth Maul",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/45/",
       "apiLink": "http://swapi.dev/api/people/45/",
       "htmlLink": "http://swapi.dev/api/people/45/",
       "name": "Bib Fortuna",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/46/",
       "apiLink": "http://swapi.dev/api/people/46/",
       "htmlLink": "http://swapi.dev/api/people/46/",
       "name": "Ayla Secura",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/47/",
       "apiLink": "http://swapi.dev/api/people/47/",
       "htmlLink": "http://swapi.dev/api/people/47/",
       "name": "Ratts Tyerel",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/48/",
       "apiLink": "http://swapi.dev/api/people/48/",
       "htmlLink": "http://swapi.dev/api/people/48/",
       "name": "Dud Bolt",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/49/",
       "apiLink": "http://swapi.dev/api/people/49/",
       "htmlLink": "http://swapi.dev/api/people/49/",
       "name": "Gasgano",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/50/",
       "apiLink": "http://swapi.dev/api/people/50/",
       "htmlLink": "http://swapi.dev/api/people/50/",
       "name": "Ben Quadinaros",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/51/",
       "apiLink": "http://swapi.dev/api/people/51/",
       "htmlLink": "http://swapi.dev/api/people/51/",
       "name": "Mace Windu",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/52/",
       "apiLink": "http://swapi.dev/api/people/52/",
       "htmlLink": "http://swapi.dev/api/people/52/",
       "name": "Ki-Adi-Mundi",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/53/",
       "apiLink": "http://swapi.dev/api/people/53/",
       "htmlLink": "http://swapi.dev/api/people/53/",
       "name": "Kit Fisto",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/54/",
       "apiLink": "http://swapi.dev/api/people/54/",
       "htmlLink": "http://swapi.dev/api/people/54/",
       "name": "Eeth Koth",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/55/",
       "apiLink": "http://swapi.dev/api/people/55/",
       "htmlLink": "http://swapi.dev/api/people/55/",
       "name": "Adi Gallia",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/56/",
       "apiLink": "http://swapi.dev/api/people/56/",
       "htmlLink": "http://swapi.dev/api/people/56/",
       "name": "Saesee Tiin",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/57/",
       "apiLink": "http://swapi.dev/api/people/57/",
       "htmlLink": "http://swapi.dev/api/people/57/",
       "name": "Yarael Poof",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/58/",
       "apiLink": "http://swapi.dev/api/people/58/",
       "htmlLink": "http://swapi.dev/api/people/58/",
       "name": "Plo Koon",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/59/",
       "apiLink": "http://swapi.dev/api/people/59/",
       "htmlLink": "http://swapi.dev/api/people/59/",
       "name": "Mas Amedda",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/60/",
       "apiLink": "http://swapi.dev/api/people/60/",
       "htmlLink": "http://swapi.dev/api/people/60/",
       "name": "Gregar Typho",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/61/",
       "apiLink": "http://swapi.dev/api/people/61/",
       "htmlLink": "http://swapi.dev/api/people/61/",
       "name": "Cordé",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/62/",
       "apiLink": "http://swapi.dev/api/people/62/",
       "htmlLink": "http://swapi.dev/api/people/62/",
       "name": "Cliegg Lars",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/63/",
       "apiLink": "http://swapi.dev/api/people/63/",
       "htmlLink": "http://swapi.dev/api/people/63/",
       "name": "Poggle the Lesser",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/64/",
       "apiLink": "http://swapi.dev/api/people/64/",
       "htmlLink": "http://swapi.dev/api/people/64/",
       "name": "Luminara Unduli",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/65/",
       "apiLink": "http://swapi.dev/api/people/65/",
       "htmlLink": "http://swapi.dev/api/people/65/",
       "name": "Barriss Offee",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/66/",
       "apiLink": "http://swapi.dev/api/people/66/",
       "htmlLink": "http://swapi.dev/api/people/66/",
       "name": "Dormé",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/67/",
       "apiLink": "http://swapi.dev/api/people/67/",
       "htmlLink": "http://swapi.dev/api/people/67/",
       "name": "Dooku",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/68/",
       "apiLink": "http://swapi.dev/api/people/68/",
       "htmlLink": "http://swapi.dev/api/people/68/",
       "name": "Bail Prestor Organa",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/69/",
       "apiLink": "http://swapi.dev/api/people/69/",
       "htmlLink": "http://swapi.dev/api/people/69/",
       "name": "Jango Fett",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/70/",
       "apiLink": "http://swapi.dev/api/people/70/",
       "htmlLink": "http://swapi.dev/api/people/70/",
       "name": "Zam Wesell",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/71/",
       "apiLink": "http://swapi.dev/api/people/71/",
       "htmlLink": "http://swapi.dev/api/people/71/",
       "name": "Dexter Jettster",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/72/",
       "apiLink": "http://swapi.dev/api/people/72/",
       "htmlLink": "http://swapi.dev/api/people/72/",
       "name": "Lama Su",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/73/",
       "apiLink": "http://swapi.dev/api/people/73/",
       "htmlLink": "http://swapi.dev/api/people/73/",
       "name": "Taun We",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/74/",
       "apiLink": "http://swapi.dev/api/people/74/",
       "htmlLink": "http://swapi.dev/api/people/74/",
       "name": "Jocasta Nu",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/75/",
       "apiLink": "http://swapi.dev/api/people/75/",
       "htmlLink": "http://swapi.dev/api/people/75/",
       "name": "R4-P17",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/76/",
       "apiLink": "http://swapi.dev/api/people/76/",
       "htmlLink": "http://swapi.dev/api/people/76/",
       "name": "Wat Tambor",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/77/",
       "apiLink": "http://swapi.dev/api/people/77/",
       "htmlLink": "http://swapi.dev/api/people/77/",
       "name": "San Hill",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/78/",
       "apiLink": "http://swapi.dev/api/people/78/",
       "htmlLink": "http://swapi.dev/api/people/78/",
       "name": "Shaak Ti",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/79/",
       "apiLink": "http://swapi.dev/api/people/79/",
       "htmlLink": "http://swapi.dev/api/people/79/",
       "name": "Grievous",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/80/",
       "apiLink": "http://swapi.dev/api/people/80/",
       "htmlLink": "http://swapi.dev/api/people/80/",
       "name": "Tarfful",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/81/",
       "apiLink": "http://swapi.dev/api/people/81/",
       "htmlLink": "http://swapi.dev/api/people/81/",
       "name": "Raymus Antilles",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/82/",
       "apiLink": "http://swapi.dev/api/people/82/",
       "htmlLink": "http://swapi.dev/api/people/82/",
       "name": "Sly Moore",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/people/83/",
       "apiLink": "http://swapi.dev/api/people/83/",
       "htmlLink": "http://swapi.dev/api/people/83/",
       "name": "Tion Medon",
-      "sourceType": "StarWars.Person"
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
     },
     {
       "id": "http://swapi.dev/api/planets/1/",
       "apiLink": "http://swapi.dev/api/planets/1/",
       "htmlLink": "http://swapi.dev/api/planets/1/",
       "name": "Tatooine",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/2/",
       "apiLink": "http://swapi.dev/api/planets/2/",
       "htmlLink": "http://swapi.dev/api/planets/2/",
       "name": "Alderaan",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/3/",
       "apiLink": "http://swapi.dev/api/planets/3/",
       "htmlLink": "http://swapi.dev/api/planets/3/",
       "name": "Yavin IV",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/4/",
       "apiLink": "http://swapi.dev/api/planets/4/",
       "htmlLink": "http://swapi.dev/api/planets/4/",
       "name": "Hoth",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/5/",
       "apiLink": "http://swapi.dev/api/planets/5/",
       "htmlLink": "http://swapi.dev/api/planets/5/",
       "name": "Dagobah",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/6/",
       "apiLink": "http://swapi.dev/api/planets/6/",
       "htmlLink": "http://swapi.dev/api/planets/6/",
       "name": "Bespin",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/7/",
       "apiLink": "http://swapi.dev/api/planets/7/",
       "htmlLink": "http://swapi.dev/api/planets/7/",
       "name": "Endor",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/8/",
       "apiLink": "http://swapi.dev/api/planets/8/",
       "htmlLink": "http://swapi.dev/api/planets/8/",
       "name": "Naboo",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/9/",
       "apiLink": "http://swapi.dev/api/planets/9/",
       "htmlLink": "http://swapi.dev/api/planets/9/",
       "name": "Coruscant",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/10/",
       "apiLink": "http://swapi.dev/api/planets/10/",
       "htmlLink": "http://swapi.dev/api/planets/10/",
       "name": "Kamino",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/11/",
       "apiLink": "http://swapi.dev/api/planets/11/",
       "htmlLink": "http://swapi.dev/api/planets/11/",
       "name": "Geonosis",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/12/",
       "apiLink": "http://swapi.dev/api/planets/12/",
       "htmlLink": "http://swapi.dev/api/planets/12/",
       "name": "Utapau",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/13/",
       "apiLink": "http://swapi.dev/api/planets/13/",
       "htmlLink": "http://swapi.dev/api/planets/13/",
       "name": "Mustafar",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/14/",
       "apiLink": "http://swapi.dev/api/planets/14/",
       "htmlLink": "http://swapi.dev/api/planets/14/",
       "name": "Kashyyyk",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/15/",
       "apiLink": "http://swapi.dev/api/planets/15/",
       "htmlLink": "http://swapi.dev/api/planets/15/",
       "name": "Polis Massa",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/16/",
       "apiLink": "http://swapi.dev/api/planets/16/",
       "htmlLink": "http://swapi.dev/api/planets/16/",
       "name": "Mygeeto",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/17/",
       "apiLink": "http://swapi.dev/api/planets/17/",
       "htmlLink": "http://swapi.dev/api/planets/17/",
       "name": "Felucia",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/18/",
       "apiLink": "http://swapi.dev/api/planets/18/",
       "htmlLink": "http://swapi.dev/api/planets/18/",
       "name": "Cato Neimoidia",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/19/",
       "apiLink": "http://swapi.dev/api/planets/19/",
       "htmlLink": "http://swapi.dev/api/planets/19/",
       "name": "Saleucami",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/20/",
       "apiLink": "http://swapi.dev/api/planets/20/",
       "htmlLink": "http://swapi.dev/api/planets/20/",
       "name": "Stewjon",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/21/",
       "apiLink": "http://swapi.dev/api/planets/21/",
       "htmlLink": "http://swapi.dev/api/planets/21/",
       "name": "Eriadu",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/22/",
       "apiLink": "http://swapi.dev/api/planets/22/",
       "htmlLink": "http://swapi.dev/api/planets/22/",
       "name": "Corellia",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/23/",
       "apiLink": "http://swapi.dev/api/planets/23/",
       "htmlLink": "http://swapi.dev/api/planets/23/",
       "name": "Rodia",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/24/",
       "apiLink": "http://swapi.dev/api/planets/24/",
       "htmlLink": "http://swapi.dev/api/planets/24/",
       "name": "Nal Hutta",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/25/",
       "apiLink": "http://swapi.dev/api/planets/25/",
       "htmlLink": "http://swapi.dev/api/planets/25/",
       "name": "Dantooine",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/26/",
       "apiLink": "http://swapi.dev/api/planets/26/",
       "htmlLink": "http://swapi.dev/api/planets/26/",
       "name": "Bestine IV",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/27/",
       "apiLink": "http://swapi.dev/api/planets/27/",
       "htmlLink": "http://swapi.dev/api/planets/27/",
       "name": "Ord Mantell",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/28/",
       "apiLink": "http://swapi.dev/api/planets/28/",
       "htmlLink": "http://swapi.dev/api/planets/28/",
       "name": "unknown",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/29/",
       "apiLink": "http://swapi.dev/api/planets/29/",
       "htmlLink": "http://swapi.dev/api/planets/29/",
       "name": "Trandosha",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/30/",
       "apiLink": "http://swapi.dev/api/planets/30/",
       "htmlLink": "http://swapi.dev/api/planets/30/",
       "name": "Socorro",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/31/",
       "apiLink": "http://swapi.dev/api/planets/31/",
       "htmlLink": "http://swapi.dev/api/planets/31/",
       "name": "Mon Cala",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/32/",
       "apiLink": "http://swapi.dev/api/planets/32/",
       "htmlLink": "http://swapi.dev/api/planets/32/",
       "name": "Chandrila",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/33/",
       "apiLink": "http://swapi.dev/api/planets/33/",
       "htmlLink": "http://swapi.dev/api/planets/33/",
       "name": "Sullust",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/34/",
       "apiLink": "http://swapi.dev/api/planets/34/",
       "htmlLink": "http://swapi.dev/api/planets/34/",
       "name": "Toydaria",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/35/",
       "apiLink": "http://swapi.dev/api/planets/35/",
       "htmlLink": "http://swapi.dev/api/planets/35/",
       "name": "Malastare",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/36/",
       "apiLink": "http://swapi.dev/api/planets/36/",
       "htmlLink": "http://swapi.dev/api/planets/36/",
       "name": "Dathomir",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/37/",
       "apiLink": "http://swapi.dev/api/planets/37/",
       "htmlLink": "http://swapi.dev/api/planets/37/",
       "name": "Ryloth",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/38/",
       "apiLink": "http://swapi.dev/api/planets/38/",
       "htmlLink": "http://swapi.dev/api/planets/38/",
       "name": "Aleen Minor",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/39/",
       "apiLink": "http://swapi.dev/api/planets/39/",
       "htmlLink": "http://swapi.dev/api/planets/39/",
       "name": "Vulpter",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/40/",
       "apiLink": "http://swapi.dev/api/planets/40/",
       "htmlLink": "http://swapi.dev/api/planets/40/",
       "name": "Troiken",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/41/",
       "apiLink": "http://swapi.dev/api/planets/41/",
       "htmlLink": "http://swapi.dev/api/planets/41/",
       "name": "Tund",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/42/",
       "apiLink": "http://swapi.dev/api/planets/42/",
       "htmlLink": "http://swapi.dev/api/planets/42/",
       "name": "Haruun Kal",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/43/",
       "apiLink": "http://swapi.dev/api/planets/43/",
       "htmlLink": "http://swapi.dev/api/planets/43/",
       "name": "Cerea",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/44/",
       "apiLink": "http://swapi.dev/api/planets/44/",
       "htmlLink": "http://swapi.dev/api/planets/44/",
       "name": "Glee Anselm",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/45/",
       "apiLink": "http://swapi.dev/api/planets/45/",
       "htmlLink": "http://swapi.dev/api/planets/45/",
       "name": "Iridonia",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/46/",
       "apiLink": "http://swapi.dev/api/planets/46/",
       "htmlLink": "http://swapi.dev/api/planets/46/",
       "name": "Tholoth",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/47/",
       "apiLink": "http://swapi.dev/api/planets/47/",
       "htmlLink": "http://swapi.dev/api/planets/47/",
       "name": "Iktotch",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/48/",
       "apiLink": "http://swapi.dev/api/planets/48/",
       "htmlLink": "http://swapi.dev/api/planets/48/",
       "name": "Quermia",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/49/",
       "apiLink": "http://swapi.dev/api/planets/49/",
       "htmlLink": "http://swapi.dev/api/planets/49/",
       "name": "Dorin",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/50/",
       "apiLink": "http://swapi.dev/api/planets/50/",
       "htmlLink": "http://swapi.dev/api/planets/50/",
       "name": "Champala",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/51/",
       "apiLink": "http://swapi.dev/api/planets/51/",
       "htmlLink": "http://swapi.dev/api/planets/51/",
       "name": "Mirial",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/52/",
       "apiLink": "http://swapi.dev/api/planets/52/",
       "htmlLink": "http://swapi.dev/api/planets/52/",
       "name": "Serenno",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/53/",
       "apiLink": "http://swapi.dev/api/planets/53/",
       "htmlLink": "http://swapi.dev/api/planets/53/",
       "name": "Concord Dawn",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/54/",
       "apiLink": "http://swapi.dev/api/planets/54/",
       "htmlLink": "http://swapi.dev/api/planets/54/",
       "name": "Zolan",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/55/",
       "apiLink": "http://swapi.dev/api/planets/55/",
       "htmlLink": "http://swapi.dev/api/planets/55/",
       "name": "Ojom",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/56/",
       "apiLink": "http://swapi.dev/api/planets/56/",
       "htmlLink": "http://swapi.dev/api/planets/56/",
       "name": "Skako",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/57/",
       "apiLink": "http://swapi.dev/api/planets/57/",
       "htmlLink": "http://swapi.dev/api/planets/57/",
       "name": "Muunilinst",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/58/",
       "apiLink": "http://swapi.dev/api/planets/58/",
       "htmlLink": "http://swapi.dev/api/planets/58/",
       "name": "Shili",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/59/",
       "apiLink": "http://swapi.dev/api/planets/59/",
       "htmlLink": "http://swapi.dev/api/planets/59/",
       "name": "Kalee",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/planets/60/",
       "apiLink": "http://swapi.dev/api/planets/60/",
       "htmlLink": "http://swapi.dev/api/planets/60/",
       "name": "Umbara",
-      "sourceType": "StarWars.Planet"
+      "sourceType": "StarWars.Planet",
+      "groupName": "Star Wars Planets"
     },
     {
       "id": "http://swapi.dev/api/films/1/",
       "apiLink": "http://swapi.dev/api/films/1/",
       "htmlLink": "http://swapi.dev/api/films/1/",
       "name": "A New Hope",
-      "sourceType": "StarWars.Film"
+      "sourceType": "StarWars.Film",
+      "groupName": "Star Wars Films"
     },
     {
       "id": "http://swapi.dev/api/films/2/",
       "apiLink": "http://swapi.dev/api/films/2/",
       "htmlLink": "http://swapi.dev/api/films/2/",
       "name": "The Empire Strikes Back",
-      "sourceType": "StarWars.Film"
+      "sourceType": "StarWars.Film",
+      "groupName": "Star Wars Films"
     },
     {
       "id": "http://swapi.dev/api/films/3/",
       "apiLink": "http://swapi.dev/api/films/3/",
       "htmlLink": "http://swapi.dev/api/films/3/",
       "name": "Return of the Jedi",
-      "sourceType": "StarWars.Film"
+      "sourceType": "StarWars.Film",
+      "groupName": "Star Wars Films"
     },
     {
       "id": "http://swapi.dev/api/films/4/",
       "apiLink": "http://swapi.dev/api/films/4/",
       "htmlLink": "http://swapi.dev/api/films/4/",
       "name": "The Phantom Menace",
-      "sourceType": "StarWars.Film"
+      "sourceType": "StarWars.Film",
+      "groupName": "Star Wars Films"
     },
     {
       "id": "http://swapi.dev/api/films/5/",
       "apiLink": "http://swapi.dev/api/films/5/",
       "htmlLink": "http://swapi.dev/api/films/5/",
       "name": "Attack of the Clones",
-      "sourceType": "StarWars.Film"
+      "sourceType": "StarWars.Film",
+      "groupName": "Star Wars Films"
     },
     {
       "id": "http://swapi.dev/api/films/6/",
       "apiLink": "http://swapi.dev/api/films/6/",
       "htmlLink": "http://swapi.dev/api/films/6/",
       "name": "Revenge of the Sith",
-      "sourceType": "StarWars.Film"
+      "sourceType": "StarWars.Film",
+      "groupName": "Star Wars Films"
     },
     {
       "id": "http://swapi.dev/api/species/1/",
       "apiLink": "http://swapi.dev/api/species/1/",
       "htmlLink": "http://swapi.dev/api/species/1/",
       "name": "Human",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/2/",
       "apiLink": "http://swapi.dev/api/species/2/",
       "htmlLink": "http://swapi.dev/api/species/2/",
       "name": "Droid",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/3/",
       "apiLink": "http://swapi.dev/api/species/3/",
       "htmlLink": "http://swapi.dev/api/species/3/",
       "name": "Wookie",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/4/",
       "apiLink": "http://swapi.dev/api/species/4/",
       "htmlLink": "http://swapi.dev/api/species/4/",
       "name": "Rodian",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/5/",
       "apiLink": "http://swapi.dev/api/species/5/",
       "htmlLink": "http://swapi.dev/api/species/5/",
       "name": "Hutt",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/6/",
       "apiLink": "http://swapi.dev/api/species/6/",
       "htmlLink": "http://swapi.dev/api/species/6/",
       "name": "Yoda's species",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/7/",
       "apiLink": "http://swapi.dev/api/species/7/",
       "htmlLink": "http://swapi.dev/api/species/7/",
       "name": "Trandoshan",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/8/",
       "apiLink": "http://swapi.dev/api/species/8/",
       "htmlLink": "http://swapi.dev/api/species/8/",
       "name": "Mon Calamari",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/9/",
       "apiLink": "http://swapi.dev/api/species/9/",
       "htmlLink": "http://swapi.dev/api/species/9/",
       "name": "Ewok",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/10/",
       "apiLink": "http://swapi.dev/api/species/10/",
       "htmlLink": "http://swapi.dev/api/species/10/",
       "name": "Sullustan",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/11/",
       "apiLink": "http://swapi.dev/api/species/11/",
       "htmlLink": "http://swapi.dev/api/species/11/",
       "name": "Neimodian",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/12/",
       "apiLink": "http://swapi.dev/api/species/12/",
       "htmlLink": "http://swapi.dev/api/species/12/",
       "name": "Gungan",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/13/",
       "apiLink": "http://swapi.dev/api/species/13/",
       "htmlLink": "http://swapi.dev/api/species/13/",
       "name": "Toydarian",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/14/",
       "apiLink": "http://swapi.dev/api/species/14/",
       "htmlLink": "http://swapi.dev/api/species/14/",
       "name": "Dug",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/15/",
       "apiLink": "http://swapi.dev/api/species/15/",
       "htmlLink": "http://swapi.dev/api/species/15/",
       "name": "Twi'lek",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/16/",
       "apiLink": "http://swapi.dev/api/species/16/",
       "htmlLink": "http://swapi.dev/api/species/16/",
       "name": "Aleena",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/17/",
       "apiLink": "http://swapi.dev/api/species/17/",
       "htmlLink": "http://swapi.dev/api/species/17/",
       "name": "Vulptereen",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/18/",
       "apiLink": "http://swapi.dev/api/species/18/",
       "htmlLink": "http://swapi.dev/api/species/18/",
       "name": "Xexto",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/19/",
       "apiLink": "http://swapi.dev/api/species/19/",
       "htmlLink": "http://swapi.dev/api/species/19/",
       "name": "Toong",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/20/",
       "apiLink": "http://swapi.dev/api/species/20/",
       "htmlLink": "http://swapi.dev/api/species/20/",
       "name": "Cerean",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/21/",
       "apiLink": "http://swapi.dev/api/species/21/",
       "htmlLink": "http://swapi.dev/api/species/21/",
       "name": "Nautolan",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/22/",
       "apiLink": "http://swapi.dev/api/species/22/",
       "htmlLink": "http://swapi.dev/api/species/22/",
       "name": "Zabrak",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/23/",
       "apiLink": "http://swapi.dev/api/species/23/",
       "htmlLink": "http://swapi.dev/api/species/23/",
       "name": "Tholothian",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/24/",
       "apiLink": "http://swapi.dev/api/species/24/",
       "htmlLink": "http://swapi.dev/api/species/24/",
       "name": "Iktotchi",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/25/",
       "apiLink": "http://swapi.dev/api/species/25/",
       "htmlLink": "http://swapi.dev/api/species/25/",
       "name": "Quermian",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/26/",
       "apiLink": "http://swapi.dev/api/species/26/",
       "htmlLink": "http://swapi.dev/api/species/26/",
       "name": "Kel Dor",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/27/",
       "apiLink": "http://swapi.dev/api/species/27/",
       "htmlLink": "http://swapi.dev/api/species/27/",
       "name": "Chagrian",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/28/",
       "apiLink": "http://swapi.dev/api/species/28/",
       "htmlLink": "http://swapi.dev/api/species/28/",
       "name": "Geonosian",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/29/",
       "apiLink": "http://swapi.dev/api/species/29/",
       "htmlLink": "http://swapi.dev/api/species/29/",
       "name": "Mirialan",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/30/",
       "apiLink": "http://swapi.dev/api/species/30/",
       "htmlLink": "http://swapi.dev/api/species/30/",
       "name": "Clawdite",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/31/",
       "apiLink": "http://swapi.dev/api/species/31/",
       "htmlLink": "http://swapi.dev/api/species/31/",
       "name": "Besalisk",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/32/",
       "apiLink": "http://swapi.dev/api/species/32/",
       "htmlLink": "http://swapi.dev/api/species/32/",
       "name": "Kaminoan",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/33/",
       "apiLink": "http://swapi.dev/api/species/33/",
       "htmlLink": "http://swapi.dev/api/species/33/",
       "name": "Skakoan",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/34/",
       "apiLink": "http://swapi.dev/api/species/34/",
       "htmlLink": "http://swapi.dev/api/species/34/",
       "name": "Muun",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/35/",
       "apiLink": "http://swapi.dev/api/species/35/",
       "htmlLink": "http://swapi.dev/api/species/35/",
       "name": "Togruta",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/36/",
       "apiLink": "http://swapi.dev/api/species/36/",
       "htmlLink": "http://swapi.dev/api/species/36/",
       "name": "Kaleesh",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/species/37/",
       "apiLink": "http://swapi.dev/api/species/37/",
       "htmlLink": "http://swapi.dev/api/species/37/",
       "name": "Pau'an",
-      "sourceType": "StarWars.Species"
+      "sourceType": "StarWars.Species",
+      "groupName": "Star Wars Species"
     },
     {
       "id": "http://swapi.dev/api/vehicles/4/",
       "apiLink": "http://swapi.dev/api/vehicles/4/",
       "htmlLink": "http://swapi.dev/api/vehicles/4/",
       "name": "Sand Crawler",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/6/",
       "apiLink": "http://swapi.dev/api/vehicles/6/",
       "htmlLink": "http://swapi.dev/api/vehicles/6/",
       "name": "T-16 skyhopper",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/7/",
       "apiLink": "http://swapi.dev/api/vehicles/7/",
       "htmlLink": "http://swapi.dev/api/vehicles/7/",
       "name": "X-34 landspeeder",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/8/",
       "apiLink": "http://swapi.dev/api/vehicles/8/",
       "htmlLink": "http://swapi.dev/api/vehicles/8/",
       "name": "TIE/LN starfighter",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/14/",
       "apiLink": "http://swapi.dev/api/vehicles/14/",
       "htmlLink": "http://swapi.dev/api/vehicles/14/",
       "name": "Snowspeeder",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/16/",
       "apiLink": "http://swapi.dev/api/vehicles/16/",
       "htmlLink": "http://swapi.dev/api/vehicles/16/",
       "name": "TIE bomber",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/18/",
       "apiLink": "http://swapi.dev/api/vehicles/18/",
       "htmlLink": "http://swapi.dev/api/vehicles/18/",
       "name": "AT-AT",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/19/",
       "apiLink": "http://swapi.dev/api/vehicles/19/",
       "htmlLink": "http://swapi.dev/api/vehicles/19/",
       "name": "AT-ST",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/20/",
       "apiLink": "http://swapi.dev/api/vehicles/20/",
       "htmlLink": "http://swapi.dev/api/vehicles/20/",
       "name": "Storm IV Twin-Pod cloud car",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/24/",
       "apiLink": "http://swapi.dev/api/vehicles/24/",
       "htmlLink": "http://swapi.dev/api/vehicles/24/",
       "name": "Sail barge",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/25/",
       "apiLink": "http://swapi.dev/api/vehicles/25/",
       "htmlLink": "http://swapi.dev/api/vehicles/25/",
       "name": "Bantha-II cargo skiff",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/26/",
       "apiLink": "http://swapi.dev/api/vehicles/26/",
       "htmlLink": "http://swapi.dev/api/vehicles/26/",
       "name": "TIE/IN interceptor",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/30/",
       "apiLink": "http://swapi.dev/api/vehicles/30/",
       "htmlLink": "http://swapi.dev/api/vehicles/30/",
       "name": "Imperial Speeder Bike",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/33/",
       "apiLink": "http://swapi.dev/api/vehicles/33/",
       "htmlLink": "http://swapi.dev/api/vehicles/33/",
       "name": "Vulture Droid",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/34/",
       "apiLink": "http://swapi.dev/api/vehicles/34/",
       "htmlLink": "http://swapi.dev/api/vehicles/34/",
       "name": "Multi-Troop Transport",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/35/",
       "apiLink": "http://swapi.dev/api/vehicles/35/",
       "htmlLink": "http://swapi.dev/api/vehicles/35/",
       "name": "Armored Assault Tank",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/36/",
       "apiLink": "http://swapi.dev/api/vehicles/36/",
       "htmlLink": "http://swapi.dev/api/vehicles/36/",
       "name": "Single Trooper Aerial Platform",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/37/",
       "apiLink": "http://swapi.dev/api/vehicles/37/",
       "htmlLink": "http://swapi.dev/api/vehicles/37/",
       "name": "C-9979 landing craft",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/38/",
       "apiLink": "http://swapi.dev/api/vehicles/38/",
       "htmlLink": "http://swapi.dev/api/vehicles/38/",
       "name": "Tribubble bongo",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/42/",
       "apiLink": "http://swapi.dev/api/vehicles/42/",
       "htmlLink": "http://swapi.dev/api/vehicles/42/",
       "name": "Sith speeder",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/44/",
       "apiLink": "http://swapi.dev/api/vehicles/44/",
       "htmlLink": "http://swapi.dev/api/vehicles/44/",
       "name": "Zephyr-G swoop bike",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/45/",
       "apiLink": "http://swapi.dev/api/vehicles/45/",
       "htmlLink": "http://swapi.dev/api/vehicles/45/",
       "name": "Koro-2 Exodrive airspeeder",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/46/",
       "apiLink": "http://swapi.dev/api/vehicles/46/",
       "htmlLink": "http://swapi.dev/api/vehicles/46/",
       "name": "XJ-6 airspeeder",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/50/",
       "apiLink": "http://swapi.dev/api/vehicles/50/",
       "htmlLink": "http://swapi.dev/api/vehicles/50/",
       "name": "LAAT/i",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/51/",
       "apiLink": "http://swapi.dev/api/vehicles/51/",
       "htmlLink": "http://swapi.dev/api/vehicles/51/",
       "name": "LAAT/c",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/53/",
       "apiLink": "http://swapi.dev/api/vehicles/53/",
       "htmlLink": "http://swapi.dev/api/vehicles/53/",
       "name": "AT-TE",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/54/",
       "apiLink": "http://swapi.dev/api/vehicles/54/",
       "htmlLink": "http://swapi.dev/api/vehicles/54/",
       "name": "SPHA",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/55/",
       "apiLink": "http://swapi.dev/api/vehicles/55/",
       "htmlLink": "http://swapi.dev/api/vehicles/55/",
       "name": "Flitknot speeder",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/56/",
       "apiLink": "http://swapi.dev/api/vehicles/56/",
       "htmlLink": "http://swapi.dev/api/vehicles/56/",
       "name": "Neimoidian shuttle",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/57/",
       "apiLink": "http://swapi.dev/api/vehicles/57/",
       "htmlLink": "http://swapi.dev/api/vehicles/57/",
       "name": "Geonosian starfighter",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/60/",
       "apiLink": "http://swapi.dev/api/vehicles/60/",
       "htmlLink": "http://swapi.dev/api/vehicles/60/",
       "name": "Tsmeu-6 personal wheel bike",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/62/",
       "apiLink": "http://swapi.dev/api/vehicles/62/",
       "htmlLink": "http://swapi.dev/api/vehicles/62/",
       "name": "Emergency Firespeeder",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/67/",
       "apiLink": "http://swapi.dev/api/vehicles/67/",
       "htmlLink": "http://swapi.dev/api/vehicles/67/",
       "name": "Droid tri-fighter",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/69/",
       "apiLink": "http://swapi.dev/api/vehicles/69/",
       "htmlLink": "http://swapi.dev/api/vehicles/69/",
       "name": "Oevvaor jet catamaran",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/70/",
       "apiLink": "http://swapi.dev/api/vehicles/70/",
       "htmlLink": "http://swapi.dev/api/vehicles/70/",
       "name": "Raddaugh Gnasp fluttercraft",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/71/",
       "apiLink": "http://swapi.dev/api/vehicles/71/",
       "htmlLink": "http://swapi.dev/api/vehicles/71/",
       "name": "Clone turbo tank",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/72/",
       "apiLink": "http://swapi.dev/api/vehicles/72/",
       "htmlLink": "http://swapi.dev/api/vehicles/72/",
       "name": "Corporate Alliance tank droid",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/73/",
       "apiLink": "http://swapi.dev/api/vehicles/73/",
       "htmlLink": "http://swapi.dev/api/vehicles/73/",
       "name": "Droid gunship",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/vehicles/76/",
       "apiLink": "http://swapi.dev/api/vehicles/76/",
       "htmlLink": "http://swapi.dev/api/vehicles/76/",
       "name": "AT-RT",
-      "sourceType": "StarWars.Vehicle"
+      "sourceType": "StarWars.Vehicle",
+      "groupName": "Star Wars Vehicles"
     },
     {
       "id": "http://swapi.dev/api/starships/2/",
       "apiLink": "http://swapi.dev/api/starships/2/",
       "htmlLink": "http://swapi.dev/api/starships/2/",
       "name": "CR90 corvette",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/3/",
       "apiLink": "http://swapi.dev/api/starships/3/",
       "htmlLink": "http://swapi.dev/api/starships/3/",
       "name": "Star Destroyer",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/5/",
       "apiLink": "http://swapi.dev/api/starships/5/",
       "htmlLink": "http://swapi.dev/api/starships/5/",
       "name": "Sentinel-class landing craft",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/9/",
       "apiLink": "http://swapi.dev/api/starships/9/",
       "htmlLink": "http://swapi.dev/api/starships/9/",
       "name": "Death Star",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/10/",
       "apiLink": "http://swapi.dev/api/starships/10/",
       "htmlLink": "http://swapi.dev/api/starships/10/",
       "name": "Millennium Falcon",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/11/",
       "apiLink": "http://swapi.dev/api/starships/11/",
       "htmlLink": "http://swapi.dev/api/starships/11/",
       "name": "Y-wing",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/12/",
       "apiLink": "http://swapi.dev/api/starships/12/",
       "htmlLink": "http://swapi.dev/api/starships/12/",
       "name": "X-wing",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/13/",
       "apiLink": "http://swapi.dev/api/starships/13/",
       "htmlLink": "http://swapi.dev/api/starships/13/",
       "name": "TIE Advanced x1",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/15/",
       "apiLink": "http://swapi.dev/api/starships/15/",
       "htmlLink": "http://swapi.dev/api/starships/15/",
       "name": "Executor",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/17/",
       "apiLink": "http://swapi.dev/api/starships/17/",
       "htmlLink": "http://swapi.dev/api/starships/17/",
       "name": "Rebel transport",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/21/",
       "apiLink": "http://swapi.dev/api/starships/21/",
       "htmlLink": "http://swapi.dev/api/starships/21/",
       "name": "Slave 1",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/22/",
       "apiLink": "http://swapi.dev/api/starships/22/",
       "htmlLink": "http://swapi.dev/api/starships/22/",
       "name": "Imperial shuttle",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/23/",
       "apiLink": "http://swapi.dev/api/starships/23/",
       "htmlLink": "http://swapi.dev/api/starships/23/",
       "name": "EF76 Nebulon-B escort frigate",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/27/",
       "apiLink": "http://swapi.dev/api/starships/27/",
       "htmlLink": "http://swapi.dev/api/starships/27/",
       "name": "Calamari Cruiser",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/28/",
       "apiLink": "http://swapi.dev/api/starships/28/",
       "htmlLink": "http://swapi.dev/api/starships/28/",
       "name": "A-wing",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/29/",
       "apiLink": "http://swapi.dev/api/starships/29/",
       "htmlLink": "http://swapi.dev/api/starships/29/",
       "name": "B-wing",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/31/",
       "apiLink": "http://swapi.dev/api/starships/31/",
       "htmlLink": "http://swapi.dev/api/starships/31/",
       "name": "Republic Cruiser",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/32/",
       "apiLink": "http://swapi.dev/api/starships/32/",
       "htmlLink": "http://swapi.dev/api/starships/32/",
       "name": "Droid control ship",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/39/",
       "apiLink": "http://swapi.dev/api/starships/39/",
       "htmlLink": "http://swapi.dev/api/starships/39/",
       "name": "Naboo fighter",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/40/",
       "apiLink": "http://swapi.dev/api/starships/40/",
       "htmlLink": "http://swapi.dev/api/starships/40/",
       "name": "Naboo Royal Starship",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/41/",
       "apiLink": "http://swapi.dev/api/starships/41/",
       "htmlLink": "http://swapi.dev/api/starships/41/",
       "name": "Scimitar",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/43/",
       "apiLink": "http://swapi.dev/api/starships/43/",
       "htmlLink": "http://swapi.dev/api/starships/43/",
       "name": "J-type diplomatic barge",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/47/",
       "apiLink": "http://swapi.dev/api/starships/47/",
       "htmlLink": "http://swapi.dev/api/starships/47/",
       "name": "AA-9 Coruscant freighter",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/48/",
       "apiLink": "http://swapi.dev/api/starships/48/",
       "htmlLink": "http://swapi.dev/api/starships/48/",
       "name": "Jedi starfighter",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/49/",
       "apiLink": "http://swapi.dev/api/starships/49/",
       "htmlLink": "http://swapi.dev/api/starships/49/",
       "name": "H-type Nubian yacht",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/52/",
       "apiLink": "http://swapi.dev/api/starships/52/",
       "htmlLink": "http://swapi.dev/api/starships/52/",
       "name": "Republic Assault ship",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/58/",
       "apiLink": "http://swapi.dev/api/starships/58/",
       "htmlLink": "http://swapi.dev/api/starships/58/",
       "name": "Solar Sailer",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/59/",
       "apiLink": "http://swapi.dev/api/starships/59/",
       "htmlLink": "http://swapi.dev/api/starships/59/",
       "name": "Trade Federation cruiser",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/61/",
       "apiLink": "http://swapi.dev/api/starships/61/",
       "htmlLink": "http://swapi.dev/api/starships/61/",
       "name": "Theta-class T-2c shuttle",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/63/",
       "apiLink": "http://swapi.dev/api/starships/63/",
       "htmlLink": "http://swapi.dev/api/starships/63/",
       "name": "Republic attack cruiser",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/64/",
       "apiLink": "http://swapi.dev/api/starships/64/",
       "htmlLink": "http://swapi.dev/api/starships/64/",
       "name": "Naboo star skiff",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/65/",
       "apiLink": "http://swapi.dev/api/starships/65/",
       "htmlLink": "http://swapi.dev/api/starships/65/",
       "name": "Jedi Interceptor",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/66/",
       "apiLink": "http://swapi.dev/api/starships/66/",
       "htmlLink": "http://swapi.dev/api/starships/66/",
       "name": "arc-170",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/68/",
       "apiLink": "http://swapi.dev/api/starships/68/",
       "htmlLink": "http://swapi.dev/api/starships/68/",
       "name": "Banking clan frigte",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/74/",
       "apiLink": "http://swapi.dev/api/starships/74/",
       "htmlLink": "http://swapi.dev/api/starships/74/",
       "name": "Belbullab-22 starfighter",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     },
     {
       "id": "http://swapi.dev/api/starships/75/",
       "apiLink": "http://swapi.dev/api/starships/75/",
       "htmlLink": "http://swapi.dev/api/starships/75/",
       "name": "V-wing",
-      "sourceType": "StarWars.Starship"
+      "sourceType": "StarWars.Starship",
+      "groupName": "Star Wars Starships"
     }
   ],
   "edges": [
