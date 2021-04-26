@@ -3158,7 +3158,7 @@
       "inV": "http://swapi.dev/api/people/1/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/1/"
     },
@@ -3288,7 +3288,7 @@
       "inV": "http://swapi.dev/api/people/4/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/4/"
     },
@@ -3323,7 +3323,7 @@
       "inV": "http://swapi.dev/api/people/5/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/5/"
     },
@@ -3353,7 +3353,7 @@
       "inV": "http://swapi.dev/api/people/6/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/6/"
     },
@@ -3378,7 +3378,7 @@
       "inV": "http://swapi.dev/api/people/7/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/7/"
     },
@@ -3408,7 +3408,7 @@
       "inV": "http://swapi.dev/api/people/9/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/9/"
     },
@@ -3453,7 +3453,7 @@
       "inV": "http://swapi.dev/api/people/10/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/10/"
     },
@@ -3508,7 +3508,7 @@
       "inV": "http://swapi.dev/api/people/11/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/11/"
     },
@@ -3553,7 +3553,7 @@
       "inV": "http://swapi.dev/api/people/12/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/12/"
     },
@@ -3623,7 +3623,7 @@
       "inV": "http://swapi.dev/api/people/14/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/14/"
     },
@@ -3698,7 +3698,7 @@
       "inV": "http://swapi.dev/api/people/18/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/18/"
     },
@@ -3723,7 +3723,7 @@
       "inV": "http://swapi.dev/api/people/19/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/19/"
     },
@@ -3798,7 +3798,7 @@
       "inV": "http://swapi.dev/api/people/21/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/21/"
     },
@@ -3823,7 +3823,7 @@
       "inV": "http://swapi.dev/api/people/22/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/22/"
     },
@@ -3878,7 +3878,7 @@
       "inV": "http://swapi.dev/api/people/25/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/25/"
     },
@@ -3898,7 +3898,7 @@
       "inV": "http://swapi.dev/api/people/26/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/26/"
     },
@@ -3928,7 +3928,7 @@
       "inV": "http://swapi.dev/api/people/28/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/28/"
     },
@@ -3943,7 +3943,7 @@
       "inV": "http://swapi.dev/api/people/29/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/29/"
     },
@@ -3998,7 +3998,7 @@
       "inV": "http://swapi.dev/api/people/32/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/32/"
     },
@@ -4043,7 +4043,7 @@
       "inV": "http://swapi.dev/api/people/34/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/34/"
     },
@@ -4068,7 +4068,7 @@
       "inV": "http://swapi.dev/api/people/35/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/35/"
     },
@@ -4148,7 +4148,7 @@
       "inV": "http://swapi.dev/api/people/39/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/39/"
     },
@@ -4203,7 +4203,7 @@
       "inV": "http://swapi.dev/api/people/42/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/42/"
     },
@@ -4223,7 +4223,7 @@
       "inV": "http://swapi.dev/api/people/43/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/43/"
     },
@@ -4373,7 +4373,7 @@
       "inV": "http://swapi.dev/api/people/51/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/51/"
     },
@@ -4563,7 +4563,7 @@
       "inV": "http://swapi.dev/api/people/60/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/60/"
     },
@@ -4583,7 +4583,7 @@
       "inV": "http://swapi.dev/api/people/61/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/61/"
     },
@@ -4598,7 +4598,7 @@
       "inV": "http://swapi.dev/api/people/62/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/62/"
     },
@@ -4728,7 +4728,7 @@
       "inV": "http://swapi.dev/api/people/69/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/69/"
     },
@@ -4828,7 +4828,7 @@
       "inV": "http://swapi.dev/api/people/75/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/75/"
     },
@@ -4938,7 +4938,7 @@
       "inV": "http://swapi.dev/api/people/81/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/81/"
     },
@@ -4958,7 +4958,7 @@
       "inV": "http://swapi.dev/api/people/82/"
     },
     {
-      "outV": "https://swapi.dev/api/species/1/",
+      "outV": "http://swapi.dev/api/species/1/",
       "label": "classifies",
       "inV": "http://swapi.dev/api/people/82/"
     },
@@ -6026,166 +6026,6 @@
       "outV": "http://swapi.dev/api/films/6/",
       "label": "contains",
       "inV": "http://swapi.dev/api/species/37/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/1/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/4/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/5/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/6/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/7/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/9/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/10/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/11/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/12/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/14/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/18/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/19/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/21/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/22/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/25/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/26/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/28/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/29/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/32/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/34/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/35/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/39/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/42/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/43/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/51/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/60/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/61/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/62/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/69/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/75/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/81/"
-    },
-    {
-      "outV": "http://swapi.dev/api/species/1/",
-      "label": "classifies",
-      "inV": "http://swapi.dev/api/people/82/"
     }
   ]
 }
