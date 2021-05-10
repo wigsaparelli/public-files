@@ -1,5 +1,5 @@
 {
-  "upsertVertices": [
+  "vertices": [
     {
       "sourceId": "http://swapi.dev/api/people/1/",
       "links": [
@@ -3131,7 +3131,7 @@
       "groupName": "Star Wars Starships"
     }
   ],
-  "upsertEdges": [
+  "edges": [
     {
       "outV": "http://swapi.dev/api/people/1/",
       "label": "resides",
