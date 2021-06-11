@@ -164,7 +164,8 @@
       "monitorUrl": "http://swapi.dev/api/people/13/",
       "name": "Chewbacca",
       "sourceType": "StarWars.Person",
-      "groupName": "Star Wars People"
+      "groupName": "Star Wars People",
+      "tag:owner": "customer-success"
     },
     {
       "sourceId": "http://swapi.dev/api/people/14/",
