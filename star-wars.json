@@ -1,6 +1,13 @@
 {
   "vertices": [
     {
+      "sourceId": "wigsaparelli-made-up",
+      "sourceName": "Star Wars",
+      "name": "wigsaparelli-made-up",
+      "sourceType": "StarWars.Person",
+      "groupName": "Star Wars People"
+    },
+    {
       "sourceId": "https://swapi.dev/api/people/1/",
       "sourceName": "Star Wars",
       "links": [
